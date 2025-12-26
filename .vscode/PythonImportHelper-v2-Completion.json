@@ -1,0 +1,2064 @@
+[
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "isExtraImport": true,
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "API_BASE_URL",
+        "importPath": "app.settings",
+        "description": "app.settings",
+        "isExtraImport": true,
+        "detail": "app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "File",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "UploadFile",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "OAuth2PasswordRequestForm",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "hashing",
+        "importPath": "app.user",
+        "description": "app.user",
+        "isExtraImport": true,
+        "detail": "app.user",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.user",
+        "description": "app.user",
+        "isExtraImport": true,
+        "detail": "app.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.user.models",
+        "description": "app.user.models",
+        "isExtraImport": true,
+        "detail": "app.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.user.models",
+        "description": "app.user.models",
+        "isExtraImport": true,
+        "detail": "app.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.user.models",
+        "description": "app.user.models",
+        "isExtraImport": true,
+        "detail": "app.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.user.models",
+        "description": "app.user.models",
+        "isExtraImport": true,
+        "detail": "app.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "constr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db",
+        "description": "app.db",
+        "isExtraImport": true,
+        "detail": "app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.auth.jwt",
+        "description": "app.auth.jwt",
+        "isExtraImport": true,
+        "detail": "app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.auth.jwt",
+        "description": "app.auth.jwt",
+        "isExtraImport": true,
+        "detail": "app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.auth.jwt",
+        "description": "app.auth.jwt",
+        "isExtraImport": true,
+        "detail": "app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.auth.jwt",
+        "description": "app.auth.jwt",
+        "isExtraImport": true,
+        "detail": "app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.auth.jwt",
+        "description": "app.auth.jwt",
+        "isExtraImport": true,
+        "detail": "app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.auth.jwt",
+        "description": "app.auth.jwt",
+        "isExtraImport": true,
+        "detail": "app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.user.schema",
+        "description": "app.user.schema",
+        "isExtraImport": true,
+        "detail": "app.user.schema",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.user.schema",
+        "description": "app.user.schema",
+        "isExtraImport": true,
+        "detail": "app.user.schema",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.user.schema",
+        "description": "app.user.schema",
+        "isExtraImport": true,
+        "detail": "app.user.schema",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "importPath": "app.auth.schema",
+        "description": "app.auth.schema",
+        "isExtraImport": true,
+        "detail": "app.auth.schema",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "PredictResponse",
+        "importPath": "app.model.schema",
+        "description": "app.model.schema",
+        "isExtraImport": true,
+        "detail": "app.model.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PredictResponse",
+        "importPath": "app.model.schema",
+        "description": "app.model.schema",
+        "isExtraImport": true,
+        "detail": "app.model.schema",
+        "documentation": {}
+    },
+    {
+        "label": "model_predict",
+        "importPath": "app.model.services",
+        "description": "app.model.services",
+        "isExtraImport": true,
+        "detail": "app.model.services",
+        "documentation": {}
+    },
+    {
+        "label": "app.utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.utils",
+        "description": "app.utils",
+        "detail": "app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "CryptContext",
+        "importPath": "passlib.context",
+        "description": "passlib.context",
+        "isExtraImport": true,
+        "detail": "passlib.context",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "dotenv",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "mock",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "mock",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "DisplayFeedback",
+        "importPath": "app.feedback.schema",
+        "description": "app.feedback.schema",
+        "isExtraImport": true,
+        "detail": "app.feedback.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "importPath": "app.feedback.schema",
+        "description": "app.feedback.schema",
+        "isExtraImport": true,
+        "detail": "app.feedback.schema",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "main",
+        "description": "main",
+        "isExtraImport": true,
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "patch",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "MagicMock",
+        "importPath": "unittest.mock",
+        "description": "unittest.mock",
+        "isExtraImport": true,
+        "detail": "unittest.mock",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncClient",
+        "importPath": "httpx",
+        "description": "httpx",
+        "isExtraImport": true,
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncClient",
+        "importPath": "httpx",
+        "description": "httpx",
+        "isExtraImport": true,
+        "detail": "httpx",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "FileStorage",
+        "importPath": "werkzeug.datastructures",
+        "description": "werkzeug.datastructures",
+        "isExtraImport": true,
+        "detail": "werkzeug.datastructures",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.auth",
+        "description": "app.auth",
+        "isExtraImport": true,
+        "detail": "app.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.feedback",
+        "description": "app.feedback",
+        "isExtraImport": true,
+        "detail": "app.feedback",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "importPath": "app.model",
+        "description": "app.model",
+        "isExtraImport": true,
+        "detail": "app.model",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "importPath": "app.feedback.models",
+        "description": "app.feedback.models",
+        "isExtraImport": true,
+        "detail": "app.feedback.models",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateDatabase",
+        "importPath": "psycopg2.errors",
+        "description": "psycopg2.errors",
+        "isExtraImport": true,
+        "detail": "psycopg2.errors",
+        "documentation": {}
+    },
+    {
+        "label": "ProgrammingError",
+        "importPath": "sqlalchemy.exc",
+        "description": "sqlalchemy.exc",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.exc",
+        "documentation": {}
+    },
+    {
+        "label": "ml_service",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ml_service",
+        "description": "ml_service",
+        "detail": "ml_service",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "settings",
+        "description": "settings",
+        "detail": "settings",
+        "documentation": {}
+    },
+    {
+        "label": "ResNet50",
+        "importPath": "tensorflow.keras.applications",
+        "description": "tensorflow.keras.applications",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications",
+        "documentation": {}
+    },
+    {
+        "label": "decode_predictions",
+        "importPath": "tensorflow.keras.applications.resnet50",
+        "description": "tensorflow.keras.applications.resnet50",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.resnet50",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_input",
+        "importPath": "tensorflow.keras.applications.resnet50",
+        "description": "tensorflow.keras.applications.resnet50",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.applications.resnet50",
+        "documentation": {}
+    },
+    {
+        "label": "image",
+        "importPath": "tensorflow.keras.preprocessing",
+        "description": "tensorflow.keras.preprocessing",
+        "isExtraImport": true,
+        "detail": "tensorflow.keras.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "HttpUser",
+        "importPath": "locust",
+        "description": "locust",
+        "isExtraImport": true,
+        "detail": "locust",
+        "documentation": {}
+    },
+    {
+        "label": "between",
+        "importPath": "locust",
+        "description": "locust",
+        "isExtraImport": true,
+        "detail": "locust",
+        "documentation": {}
+    },
+    {
+        "label": "task",
+        "importPath": "locust",
+        "description": "locust",
+        "isExtraImport": true,
+        "detail": "locust",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "app.image_classifier_app",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "app.image_classifier_app",
+        "description": "app.image_classifier_app",
+        "detail": "app.image_classifier_app",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "api.app.auth.jwt",
+        "description": "api.app.auth.jwt",
+        "peekOfCode": "def create_access_token(data: dict) -> str:\n    \"\"\"\n    Generates a JWT access token with an expiration time.\n    This function creates a JWT (JSON Web Token) that includes the provided\n    data and an expiration time. The token is signed using a secret key and\n    a specified algorithm.\n    Args:\n        data (dict): A dictionary containing the data to be included in the token.\n    Returns:\n        str: The encoded JWT token as a string.",
+        "detail": "api.app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "verify_token",
+        "kind": 2,
+        "importPath": "api.app.auth.jwt",
+        "description": "api.app.auth.jwt",
+        "peekOfCode": "def verify_token(token: str, credentials_exception):\n    \"\"\"\n    Verifies the provided JWT token and extracts the user information.\n    This function decodes the given JWT token using the secret key and specified\n    algorithm. It checks for the presence of the user's email in the token's payload.\n    If the email is not found or the token is invalid, an exception is raised.\n    Args:\n        token (str): The JWT token to be verified.\n        credentials_exception: The exception to raise if the token is invalid or the email is not found.\n    Returns:",
+        "detail": "api.app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "api.app.auth.jwt",
+        "description": "api.app.auth.jwt",
+        "peekOfCode": "def get_current_user(token: str = Depends(oauth2_scheme)):\n    \"\"\"\n    Retrieves the current authenticated user based on the provided JWT token.\n    This function extracts the JWT token from the request, verifies it, and returns\n    the user data associated with the token. If the token is invalid or cannot be\n    verified, an HTTP 401 Unauthorized exception is raised.\n    Args:\n        token (str, optional): The JWT token extracted from the request using the OAuth2\n                               password flow. Defaults to being fetched via `Depends(oauth2_scheme)`.\n    Returns:",
+        "detail": "api.app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "ALGORITHM",
+        "kind": 5,
+        "importPath": "api.app.auth.jwt",
+        "description": "api.app.auth.jwt",
+        "peekOfCode": "ALGORITHM = \"HS256\"\nACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict) -> str:\n    \"\"\"\n    Generates a JWT access token with an expiration time.\n    This function creates a JWT (JSON Web Token) that includes the provided\n    data and an expiration time. The token is signed using a secret key and\n    a specified algorithm.\n    Args:\n        data (dict): A dictionary containing the data to be included in the token.",
+        "detail": "api.app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "ACCESS_TOKEN_EXPIRE_MINUTES",
+        "kind": 5,
+        "importPath": "api.app.auth.jwt",
+        "description": "api.app.auth.jwt",
+        "peekOfCode": "ACCESS_TOKEN_EXPIRE_MINUTES = 30\ndef create_access_token(data: dict) -> str:\n    \"\"\"\n    Generates a JWT access token with an expiration time.\n    This function creates a JWT (JSON Web Token) that includes the provided\n    data and an expiration time. The token is signed using a secret key and\n    a specified algorithm.\n    Args:\n        data (dict): A dictionary containing the data to be included in the token.\n    Returns:",
+        "detail": "api.app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "oauth2_scheme",
+        "kind": 5,
+        "importPath": "api.app.auth.jwt",
+        "description": "api.app.auth.jwt",
+        "peekOfCode": "oauth2_scheme = OAuth2PasswordBearer(tokenUrl=\"login\")\ndef get_current_user(token: str = Depends(oauth2_scheme)):\n    \"\"\"\n    Retrieves the current authenticated user based on the provided JWT token.\n    This function extracts the JWT token from the request, verifies it, and returns\n    the user data associated with the token. If the token is invalid or cannot be\n    verified, an HTTP 401 Unauthorized exception is raised.\n    Args:\n        token (str, optional): The JWT token extracted from the request using the OAuth2\n                               password flow. Defaults to being fetched via `Depends(oauth2_scheme)`.",
+        "detail": "api.app.auth.jwt",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "api.app.auth.router",
+        "description": "api.app.auth.router",
+        "peekOfCode": "def login(\n    request: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(db.get_db)\n):\n    user = db.query(User).filter(User.email == request.username).first()\n    if not user:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND, detail=f\"Invalid credentials\"\n        )\n    if not hashing.verify_password(request.password, user.password):\n        raise HTTPException(",
+        "detail": "api.app.auth.router",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.app.auth.router",
+        "description": "api.app.auth.router",
+        "peekOfCode": "router = APIRouter(tags=[\"auth\"])\n@router.post(\"/login\")\ndef login(\n    request: OAuth2PasswordRequestForm = Depends(), db: Session = Depends(db.get_db)\n):\n    user = db.query(User).filter(User.email == request.username).first()\n    if not user:\n        raise HTTPException(\n            status_code=status.HTTP_404_NOT_FOUND, detail=f\"Invalid credentials\"\n        )",
+        "detail": "api.app.auth.router",
+        "documentation": {}
+    },
+    {
+        "label": "Login",
+        "kind": 6,
+        "importPath": "api.app.auth.schema",
+        "description": "api.app.auth.schema",
+        "peekOfCode": "class Login(BaseModel):\n    username: str\n    password: str\nclass Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    email: Optional[str] = None",
+        "detail": "api.app.auth.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Token",
+        "kind": 6,
+        "importPath": "api.app.auth.schema",
+        "description": "api.app.auth.schema",
+        "peekOfCode": "class Token(BaseModel):\n    access_token: str\n    token_type: str\nclass TokenData(BaseModel):\n    email: Optional[str] = None",
+        "detail": "api.app.auth.schema",
+        "documentation": {}
+    },
+    {
+        "label": "TokenData",
+        "kind": 6,
+        "importPath": "api.app.auth.schema",
+        "description": "api.app.auth.schema",
+        "peekOfCode": "class TokenData(BaseModel):\n    email: Optional[str] = None",
+        "detail": "api.app.auth.schema",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "kind": 6,
+        "importPath": "api.app.feedback.models",
+        "description": "api.app.feedback.models",
+        "peekOfCode": "class Feedback(Base):\n    __tablename__ = \"feedbacks\"\n    id = Column(Integer, primary_key=True, index=True)\n    score = Column(Float)\n    predicted_class = Column(String(50))\n    feedback = Column(String(255))\n    user_id = Column(Integer, ForeignKey(\"users.id\"))\n    image_file_name = Column(String(255))\n    user = relationship(\"User\", back_populates=\"feedbacks\")\n    def __init__(",
+        "detail": "api.app.feedback.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.app.feedback.router",
+        "description": "api.app.feedback.router",
+        "peekOfCode": "router = APIRouter(tags=[\"Feedback\"], prefix=\"/feedback\")\n@router.post(\"/\", status_code=status.HTTP_201_CREATED)\nasync def create_feedback(\n    request: schema.Feedback,\n    database: Session = Depends(db.get_db),\n    current_user: User = Depends(get_current_user),\n):\n    return await services.new_feedback(request, current_user, database)\n@router.get(\"/\", response_model=List[schema.DisplayFeedback])\nasync def get_all_feedback(",
+        "detail": "api.app.feedback.router",
+        "documentation": {}
+    },
+    {
+        "label": "Feedback",
+        "kind": 6,
+        "importPath": "api.app.feedback.schema",
+        "description": "api.app.feedback.schema",
+        "peekOfCode": "class Feedback(BaseModel):\n    score: float\n    predicted_class: str\n    image_file_name: str\n    feedback: str\nclass DisplayFeedback(BaseModel):\n    id: int\n    score: float\n    predicted_class: str\n    image_file_name: str",
+        "detail": "api.app.feedback.schema",
+        "documentation": {}
+    },
+    {
+        "label": "DisplayFeedback",
+        "kind": 6,
+        "importPath": "api.app.feedback.schema",
+        "description": "api.app.feedback.schema",
+        "peekOfCode": "class DisplayFeedback(BaseModel):\n    id: int\n    score: float\n    predicted_class: str\n    image_file_name: str\n    feedback: str\n    class Config:\n        orm_mode = True",
+        "detail": "api.app.feedback.schema",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.app.model.router",
+        "description": "api.app.model.router",
+        "peekOfCode": "router = APIRouter(tags=[\"Model\"], prefix=\"/model\")\n@router.post(\"/predict\", response_model=PredictResponse)\nasync def predict(\n    file: UploadFile = File(...),\n    current_user=Depends(get_current_user),\n):\n    response = {\n        \"success\": False,\n        \"prediction\": None,\n        \"score\": None,",
+        "detail": "api.app.model.router",
+        "documentation": {}
+    },
+    {
+        "label": "PredictRequest",
+        "kind": 6,
+        "importPath": "api.app.model.schema",
+        "description": "api.app.model.schema",
+        "peekOfCode": "class PredictRequest(BaseModel):\n    file: str\nclass PredictResponse(BaseModel):\n    success: bool\n    prediction: str\n    score: float\n    image_file_name: str",
+        "detail": "api.app.model.schema",
+        "documentation": {}
+    },
+    {
+        "label": "PredictResponse",
+        "kind": 6,
+        "importPath": "api.app.model.schema",
+        "description": "api.app.model.schema",
+        "peekOfCode": "class PredictResponse(BaseModel):\n    success: bool\n    prediction: str\n    score: float\n    image_file_name: str",
+        "detail": "api.app.model.schema",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "api.app.model.services",
+        "description": "api.app.model.services",
+        "peekOfCode": "db = redis.Redis(\n    host=settings.REDIS_HOST,\n    port=settings.REDIS_PORT,\n    db=settings.REDIS_DB,\n)\nasync def model_predict(image_name):\n    print(f\"Processing image {image_name}...\")\n    prediction = None\n    score = None\n    # Assign unique job ID",
+        "detail": "api.app.model.services",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "api.app.user.hashing",
+        "description": "api.app.user.hashing",
+        "peekOfCode": "def verify_password(plain_password, hashed_password):\n    \"\"\"\n    Verifies if the provided plain password matches the hashed password.\n    This function compares a plain password with a hashed password to check if they\n    match using the Argon2 hashing algorithm. It returns `True` if the passwords match,\n    otherwise returns `False`.\n    Args:\n        plain_password (str): The plain text password to be verified.\n        hashed_password (str): The hashed password to compare against.\n    Returns:",
+        "detail": "api.app.user.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "api.app.user.hashing",
+        "description": "api.app.user.hashing",
+        "peekOfCode": "def get_password_hash(password):\n    \"\"\"\n    Hashes the provided password using the Argon2 algorithm.\n    This function generates a hashed version of the given plain text password using\n    the Argon2 hashing algorithm. The resulting hash can be used for secure password storage.\n    Args:\n        password (str): The plain text password to be hashed.\n    Returns:\n        str: The hashed password.\n    \"\"\"",
+        "detail": "api.app.user.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "pwd_context",
+        "kind": 5,
+        "importPath": "api.app.user.hashing",
+        "description": "api.app.user.hashing",
+        "peekOfCode": "pwd_context = CryptContext(schemes=[\"argon2\"], deprecated=\"auto\")\ndef verify_password(plain_password, hashed_password):\n    \"\"\"\n    Verifies if the provided plain password matches the hashed password.\n    This function compares a plain password with a hashed password to check if they\n    match using the Argon2 hashing algorithm. It returns `True` if the passwords match,\n    otherwise returns `False`.\n    Args:\n        plain_password (str): The plain text password to be verified.\n        hashed_password (str): The hashed password to compare against.",
+        "detail": "api.app.user.hashing",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "api.app.user.models",
+        "description": "api.app.user.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    name = Column(String(50))\n    email = Column(String(255), unique=True)\n    password = Column(String(255))\n    feedbacks = relationship(\"Feedback\", back_populates=\"user\")\n    def __init__(self, name, email, password, *args, **kwargs):\n        self.name = name\n        self.email = email",
+        "detail": "api.app.user.models",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "api.app.user.router",
+        "description": "api.app.user.router",
+        "peekOfCode": "router = APIRouter(tags=[\"Users\"], prefix=\"/user\")\n@router.post(\"/\", status_code=status.HTTP_201_CREATED)\nasync def create_user_registration(\n    request: schema.User,\n    database: Session = Depends(db.get_db),\n):\n    # 1. Verify if email already exists\n    email_exists = await validator.verify_email_exist(\n        request.email,\n        database,",
+        "detail": "api.app.user.router",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "api.app.user.schema",
+        "description": "api.app.user.schema",
+        "peekOfCode": "class User(BaseModel):\n    name: constr(min_length=2, max_length=50)\n    email: EmailStr\n    password: str\nclass DisplayUser(BaseModel):\n    id: int\n    name: str\n    email: str\n    class Config:\n        orm_mode = True",
+        "detail": "api.app.user.schema",
+        "documentation": {}
+    },
+    {
+        "label": "DisplayUser",
+        "kind": 6,
+        "importPath": "api.app.user.schema",
+        "description": "api.app.user.schema",
+        "peekOfCode": "class DisplayUser(BaseModel):\n    id: int\n    name: str\n    email: str\n    class Config:\n        orm_mode = True",
+        "detail": "api.app.user.schema",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "def get_db():\n    \"\"\"\n    Provides a database session for dependency injection.\n    This function is used to obtain a new database session instance from the\n    `SessionLocal` factory. It is intended to be used with dependency injection\n    in FastAPI to manage database sessions.\n    Yields:\n        Session: A SQLAlchemy database session.\n    Notes:\n        The session is automatically closed after use to ensure proper resource management.",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USERNAME",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "DATABASE_USERNAME = config.DATABASE_USERNAME\nDATABASE_PASSWORD = config.DATABASE_PASSWORD\nDATABASE_HOST = config.DATABASE_HOST\nDATABASE_NAME = config.DATABASE_NAME\nSQLALCHEMY_DATABASE_URL = f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "DATABASE_PASSWORD = config.DATABASE_PASSWORD\nDATABASE_HOST = config.DATABASE_HOST\nDATABASE_NAME = config.DATABASE_NAME\nSQLALCHEMY_DATABASE_URL = f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"\n    Provides a database session for dependency injection.",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "DATABASE_HOST = config.DATABASE_HOST\nDATABASE_NAME = config.DATABASE_NAME\nSQLALCHEMY_DATABASE_URL = f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"\n    Provides a database session for dependency injection.\n    This function is used to obtain a new database session instance from the",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "DATABASE_NAME = config.DATABASE_NAME\nSQLALCHEMY_DATABASE_URL = f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"\n    Provides a database session for dependency injection.\n    This function is used to obtain a new database session instance from the\n    `SessionLocal` factory. It is intended to be used with dependency injection",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"\n    Provides a database session for dependency injection.\n    This function is used to obtain a new database session instance from the\n    `SessionLocal` factory. It is intended to be used with dependency injection\n    in FastAPI to manage database sessions.",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"\n    Provides a database session for dependency injection.\n    This function is used to obtain a new database session instance from the\n    `SessionLocal` factory. It is intended to be used with dependency injection\n    in FastAPI to manage database sessions.\n    Yields:",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"\n    Provides a database session for dependency injection.\n    This function is used to obtain a new database session instance from the\n    `SessionLocal` factory. It is intended to be used with dependency injection\n    in FastAPI to manage database sessions.\n    Yields:\n        Session: A SQLAlchemy database session.",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "api.app.db",
+        "description": "api.app.db",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    \"\"\"\n    Provides a database session for dependency injection.\n    This function is used to obtain a new database session instance from the\n    `SessionLocal` factory. It is intended to be used with dependency injection\n    in FastAPI to manage database sessions.\n    Yields:\n        Session: A SQLAlchemy database session.\n    Notes:",
+        "detail": "api.app.db",
+        "documentation": {}
+    },
+    {
+        "label": "API_DEBUG",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "API_DEBUG = True\nUPLOAD_FOLDER = \"uploads/\"\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\n# ======================\n# REDIS SETTINGS\n# ======================\nREDIS_QUEUE = \"service_queue\"\nREDIS_PORT = int(os.getenv(\"REDIS_PORT\", 6379))\n# The tests and services expect REDIS_DB (not REDIS_DB_ID)\nREDIS_DB = int(os.getenv(\"REDIS_DB\", 0))",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_FOLDER",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "UPLOAD_FOLDER = \"uploads/\"\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\n# ======================\n# REDIS SETTINGS\n# ======================\nREDIS_QUEUE = \"service_queue\"\nREDIS_PORT = int(os.getenv(\"REDIS_PORT\", 6379))\n# The tests and services expect REDIS_DB (not REDIS_DB_ID)\nREDIS_DB = int(os.getenv(\"REDIS_DB\", 0))\nREDIS_HOST = os.getenv(\"REDIS_HOST\", \"redis\")",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_QUEUE",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "REDIS_QUEUE = \"service_queue\"\nREDIS_PORT = int(os.getenv(\"REDIS_PORT\", 6379))\n# The tests and services expect REDIS_DB (not REDIS_DB_ID)\nREDIS_DB = int(os.getenv(\"REDIS_DB\", 0))\nREDIS_HOST = os.getenv(\"REDIS_HOST\", \"redis\")\nAPI_SLEEP = 0.05\n# ======================\n# DATABASE SETTINGS\n# ======================\nDATABASE_USERNAME = os.getenv(\"POSTGRES_USER\")",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_PORT",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "REDIS_PORT = int(os.getenv(\"REDIS_PORT\", 6379))\n# The tests and services expect REDIS_DB (not REDIS_DB_ID)\nREDIS_DB = int(os.getenv(\"REDIS_DB\", 0))\nREDIS_HOST = os.getenv(\"REDIS_HOST\", \"redis\")\nAPI_SLEEP = 0.05\n# ======================\n# DATABASE SETTINGS\n# ======================\nDATABASE_USERNAME = os.getenv(\"POSTGRES_USER\")\nDATABASE_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_DB",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "REDIS_DB = int(os.getenv(\"REDIS_DB\", 0))\nREDIS_HOST = os.getenv(\"REDIS_HOST\", \"redis\")\nAPI_SLEEP = 0.05\n# ======================\n# DATABASE SETTINGS\n# ======================\nDATABASE_USERNAME = os.getenv(\"POSTGRES_USER\")\nDATABASE_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\nDATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"POSTGRES_DB\")",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_HOST",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "REDIS_HOST = os.getenv(\"REDIS_HOST\", \"redis\")\nAPI_SLEEP = 0.05\n# ======================\n# DATABASE SETTINGS\n# ======================\nDATABASE_USERNAME = os.getenv(\"POSTGRES_USER\")\nDATABASE_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\nDATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"POSTGRES_DB\")\n# ======================",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "API_SLEEP",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "API_SLEEP = 0.05\n# ======================\n# DATABASE SETTINGS\n# ======================\nDATABASE_USERNAME = os.getenv(\"POSTGRES_USER\")\nDATABASE_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\nDATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"POSTGRES_DB\")\n# ======================\n# SECURITY",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USERNAME",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "DATABASE_USERNAME = os.getenv(\"POSTGRES_USER\")\nDATABASE_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\nDATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"POSTGRES_DB\")\n# ======================\n# SECURITY\n# ======================\nSECRET_KEY = os.getenv(\n    \"SECRET_KEY\",\n    \"S09WWHXB AJDIUEREHCN3752346572452VGGGVWWW526194\",",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "DATABASE_PASSWORD = os.getenv(\"POSTGRES_PASSWORD\")\nDATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"POSTGRES_DB\")\n# ======================\n# SECURITY\n# ======================\nSECRET_KEY = os.getenv(\n    \"SECRET_KEY\",\n    \"S09WWHXB AJDIUEREHCN3752346572452VGGGVWWW526194\",\n)",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "DATABASE_HOST = os.getenv(\"DATABASE_HOST\")\nDATABASE_NAME = os.getenv(\"POSTGRES_DB\")\n# ======================\n# SECURITY\n# ======================\nSECRET_KEY = os.getenv(\n    \"SECRET_KEY\",\n    \"S09WWHXB AJDIUEREHCN3752346572452VGGGVWWW526194\",\n)",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "DATABASE_NAME = os.getenv(\"POSTGRES_DB\")\n# ======================\n# SECURITY\n# ======================\nSECRET_KEY = os.getenv(\n    \"SECRET_KEY\",\n    \"S09WWHXB AJDIUEREHCN3752346572452VGGGVWWW526194\",\n)",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "api.app.settings",
+        "description": "api.app.settings",
+        "peekOfCode": "SECRET_KEY = os.getenv(\n    \"SECRET_KEY\",\n    \"S09WWHXB AJDIUEREHCN3752346572452VGGGVWWW526194\",\n)",
+        "detail": "api.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "allowed_file",
+        "kind": 2,
+        "importPath": "api.app.utils",
+        "description": "api.app.utils",
+        "peekOfCode": "def allowed_file(filename: str) -> bool:\n    \"\"\"\n    Check if the file has an allowed image extension.\n    \"\"\"\n    if not filename:\n        return False\n    _, ext = os.path.splitext(filename.lower())\n    return ext in ALLOWED_EXTENSIONS\nasync def get_file_hash(file):\n    \"\"\"",
+        "detail": "api.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_EXTENSIONS",
+        "kind": 5,
+        "importPath": "api.app.utils",
+        "description": "api.app.utils",
+        "peekOfCode": "ALLOWED_EXTENSIONS = {\".png\", \".jpg\", \".jpeg\", \".gif\"}\ndef allowed_file(filename: str) -> bool:\n    \"\"\"\n    Check if the file has an allowed image extension.\n    \"\"\"\n    if not filename:\n        return False\n    _, ext = os.path.splitext(filename.lower())\n    return ext in ALLOWED_EXTENSIONS\nasync def get_file_hash(file):",
+        "detail": "api.app.utils",
+        "documentation": {}
+    },
+    {
+        "label": "mock_db_session",
+        "kind": 2,
+        "importPath": "api.tests.test_router_feedback",
+        "description": "api.tests.test_router_feedback",
+        "peekOfCode": "def mock_db_session():\n    return mock.create_autospec(Session, instance=True)\n@pytest.fixture\ndef mock_get_current_user():\n    return sample_user\n@mock.patch(\"app.feedback.router.services.new_feedback\")\ndef test_create_feedback(mock_new_feedback, mock_db_session, mock_get_current_user):\n    mock_new_feedback.return_value = sample_feedback\n    payload = {\n        \"feedback\": \"Great service!\",",
+        "detail": "api.tests.test_router_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "mock_get_current_user",
+        "kind": 2,
+        "importPath": "api.tests.test_router_feedback",
+        "description": "api.tests.test_router_feedback",
+        "peekOfCode": "def mock_get_current_user():\n    return sample_user\n@mock.patch(\"app.feedback.router.services.new_feedback\")\ndef test_create_feedback(mock_new_feedback, mock_db_session, mock_get_current_user):\n    mock_new_feedback.return_value = sample_feedback\n    payload = {\n        \"feedback\": \"Great service!\",\n        \"image_file_name\": \"testimage.jpg\",\n        \"predicted_class\": \"dog\",\n        \"score\": 0.95,",
+        "detail": "api.tests.test_router_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "test_create_feedback",
+        "kind": 2,
+        "importPath": "api.tests.test_router_feedback",
+        "description": "api.tests.test_router_feedback",
+        "peekOfCode": "def test_create_feedback(mock_new_feedback, mock_db_session, mock_get_current_user):\n    mock_new_feedback.return_value = sample_feedback\n    payload = {\n        \"feedback\": \"Great service!\",\n        \"image_file_name\": \"testimage.jpg\",\n        \"predicted_class\": \"dog\",\n        \"score\": 0.95,\n    }\n    app.dependency_overrides[db.get_db] = lambda: mock_db_session\n    app.dependency_overrides[get_current_user] = lambda: mock_get_current_user",
+        "detail": "api.tests.test_router_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "test_get_all_feedback",
+        "kind": 2,
+        "importPath": "api.tests.test_router_feedback",
+        "description": "api.tests.test_router_feedback",
+        "peekOfCode": "def test_get_all_feedback(mock_all_feedback, mock_db_session, mock_get_current_user):\n    # Setup the mock service to return a list of feedback\n    mock_all_feedback.return_value = [\n        DisplayFeedback(\n            id=1,\n            feedback=\"Great service!\",\n            score=0.95,\n            predicted_class=\"dog\",\n            image_file_name=\"testimage.jpg\",\n        )",
+        "detail": "api.tests.test_router_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "api.tests.test_router_feedback",
+        "description": "api.tests.test_router_feedback",
+        "peekOfCode": "client = TestClient(app)\nsample_user = User(\n    id=1,\n    username=\"testuser\",\n    email=\"testuser@example.com\",\n    name=\"Test User\",\n    password=\"password\",\n)\nsample_feedback = Feedback(\n    feedback=\"Great service!\",",
+        "detail": "api.tests.test_router_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "sample_user",
+        "kind": 5,
+        "importPath": "api.tests.test_router_feedback",
+        "description": "api.tests.test_router_feedback",
+        "peekOfCode": "sample_user = User(\n    id=1,\n    username=\"testuser\",\n    email=\"testuser@example.com\",\n    name=\"Test User\",\n    password=\"password\",\n)\nsample_feedback = Feedback(\n    feedback=\"Great service!\",\n    image_file_name=\"testimage.jpg\",",
+        "detail": "api.tests.test_router_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "sample_feedback",
+        "kind": 5,
+        "importPath": "api.tests.test_router_feedback",
+        "description": "api.tests.test_router_feedback",
+        "peekOfCode": "sample_feedback = Feedback(\n    feedback=\"Great service!\",\n    image_file_name=\"testimage.jpg\",\n    predicted_class=\"dog\",\n    score=0.95,\n)\n@pytest.fixture\ndef mock_db_session():\n    return mock.create_autospec(Session, instance=True)\n@pytest.fixture",
+        "detail": "api.tests.test_router_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "test_allowed_file",
+        "kind": 2,
+        "importPath": "api.tests.test_utils",
+        "description": "api.tests.test_utils",
+        "peekOfCode": "def test_allowed_file():\n    assert utils.allowed_file(\"cat.JPG\")\n    assert utils.allowed_file(\"cat.jpeg\")\n    assert utils.allowed_file(\"cat.JPEG\")\n    assert utils.allowed_file(\"../../car.PNG\")\n    assert utils.allowed_file(\"/usr/var/src/car.gif\")\n    assert not utils.allowed_file(\"cat.JPGG\")\n    assert not utils.allowed_file(\"invoice.pdf\")\n    assert not utils.allowed_file(\"/usr/src/slides.odt\")\n    assert not utils.allowed_file(\"/usr/src/api\")",
+        "detail": "api.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "api.main",
+        "description": "api.main",
+        "peekOfCode": "app = FastAPI(title=\"Image Prediction API\", version=\"0.0.1\")\napp.include_router(auth_router.router)\napp.include_router(model_router.router)\napp.include_router(user_router.router)\napp.include_router(feedback_router.router)",
+        "detail": "api.main",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_USERNAME",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "DATABASE_USERNAME = config.DATABASE_USERNAME\nDATABASE_PASSWORD = config.DATABASE_PASSWORD\nDATABASE_HOST = config.DATABASE_HOST\nDATABASE_NAME = config.DATABASE_NAME\n# Create the initial connection URL to PostgreSQL (without specifying the database)\ninitial_connection_url = (\n    f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/postgres\"\n)\nprint(initial_connection_url)\nconn = None",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_PASSWORD",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "DATABASE_PASSWORD = config.DATABASE_PASSWORD\nDATABASE_HOST = config.DATABASE_HOST\nDATABASE_NAME = config.DATABASE_NAME\n# Create the initial connection URL to PostgreSQL (without specifying the database)\ninitial_connection_url = (\n    f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/postgres\"\n)\nprint(initial_connection_url)\nconn = None\n# Connect to PostgreSQL to create the database if it doesn't exist",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_HOST",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "DATABASE_HOST = config.DATABASE_HOST\nDATABASE_NAME = config.DATABASE_NAME\n# Create the initial connection URL to PostgreSQL (without specifying the database)\ninitial_connection_url = (\n    f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/postgres\"\n)\nprint(initial_connection_url)\nconn = None\n# Connect to PostgreSQL to create the database if it doesn't exist\ntry:",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "DATABASE_NAME = config.DATABASE_NAME\n# Create the initial connection URL to PostgreSQL (without specifying the database)\ninitial_connection_url = (\n    f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/postgres\"\n)\nprint(initial_connection_url)\nconn = None\n# Connect to PostgreSQL to create the database if it doesn't exist\ntry:\n    conn = psycopg2.connect(initial_connection_url)",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "initial_connection_url",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "initial_connection_url = (\n    f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/postgres\"\n)\nprint(initial_connection_url)\nconn = None\n# Connect to PostgreSQL to create the database if it doesn't exist\ntry:\n    conn = psycopg2.connect(initial_connection_url)\n    conn.autocommit = True\n    cursor = conn.cursor()",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "conn = None\n# Connect to PostgreSQL to create the database if it doesn't exist\ntry:\n    conn = psycopg2.connect(initial_connection_url)\n    conn.autocommit = True\n    cursor = conn.cursor()\n    # Create the database\n    cursor.execute(f\"CREATE DATABASE {DATABASE_NAME}\")\n    print(f\"Database '{DATABASE_NAME}' created successfully\")\nexcept DuplicateDatabase as e:",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_DATABASE_URL",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "SQLALCHEMY_DATABASE_URL = f\"postgresql://{DATABASE_USERNAME}:{DATABASE_PASSWORD}@{DATABASE_HOST}/{DATABASE_NAME}\"\nprint(SQLALCHEMY_DATABASE_URL)\n# Create engine\nengine = create_engine(SQLALCHEMY_DATABASE_URL)\n# Drop all tables if they exist\nBase.metadata.drop_all(engine)\nprint(\"Tables dropped\")\n# Create all tables\nBase.metadata.create_all(engine)\nprint(\"Tables created\")",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_DATABASE_URL)\n# Drop all tables if they exist\nBase.metadata.drop_all(engine)\nprint(\"Tables dropped\")\n# Create all tables\nBase.metadata.create_all(engine)\nprint(\"Tables created\")\n# Populate database with a default user\nprint(\"Populating database with default user\")\nSession = sessionmaker(bind=engine)",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "Session = sessionmaker(bind=engine)\nsession = Session()\nuser = User(\n    name=\"Admin User\",\n    password=\"admin\",\n    email=\"admin@example.com\",\n)\nsession.add(user)\nsession.commit()\nprint(\"Default user added\")",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "session = Session()\nuser = User(\n    name=\"Admin User\",\n    password=\"admin\",\n    email=\"admin@example.com\",\n)\nsession.add(user)\nsession.commit()\nprint(\"Default user added\")",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "api.populate_db",
+        "description": "api.populate_db",
+        "peekOfCode": "user = User(\n    name=\"Admin User\",\n    password=\"admin\",\n    email=\"admin@example.com\",\n)\nsession.add(user)\nsession.commit()\nprint(\"Default user added\")",
+        "detail": "api.populate_db",
+        "documentation": {}
+    },
+    {
+        "label": "TestMLService",
+        "kind": 6,
+        "importPath": "model.tests.test_model",
+        "description": "model.tests.test_model",
+        "peekOfCode": "class TestMLService(unittest.TestCase):\n    def test_predict(self):\n        ml_service.settings.UPLOAD_FOLDER = \"tests\"\n        class_name, pred_probability = ml_service.predict(\"dog.jpeg\")\n        self.assertEqual(class_name, \"Eskimo_dog\")\n        self.assertAlmostEqual(pred_probability, 0.9346, 5)\nif __name__ == \"__main__\":\n    unittest.main()",
+        "detail": "model.tests.test_model",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "model.ml_service",
+        "description": "model.ml_service",
+        "peekOfCode": "def predict(image_name):\n    image_path = os.path.join(settings.UPLOAD_FOLDER, image_name)\n    img = image.load_img(image_path, target_size=(224, 224))\n    x = image.img_to_array(img)\n    x = np.expand_dims(x, axis=0)\n    x = preprocess_input(x)\n    preds = model.predict(x)\n    _, class_name, pred_probability = decode_predictions(preds, top=1)[0][0]\n    pred_probability = float(round(pred_probability, 4))\n    return class_name, pred_probability",
+        "detail": "model.ml_service",
+        "documentation": {}
+    },
+    {
+        "label": "classify_process",
+        "kind": 2,
+        "importPath": "model.ml_service",
+        "description": "model.ml_service",
+        "peekOfCode": "def classify_process():\n    while True:\n        _, job_data = db.brpop(settings.REDIS_QUEUE)\n        job = json.loads(job_data.decode(\"utf-8\"))\n        job_id = job[\"id\"]\n        image_name = job[\"image_name\"]\n        prediction, score = predict(image_name)\n        output = {\"prediction\": prediction, \"score\": score}\n        db.set(job_id, json.dumps(output))\n        time.sleep(settings.SERVER_SLEEP)",
+        "detail": "model.ml_service",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "model.ml_service",
+        "description": "model.ml_service",
+        "peekOfCode": "db = redis.Redis(\n    host=settings.REDIS_IP,\n    port=settings.REDIS_PORT,\n    db=settings.REDIS_DB_ID,\n)\nmodel = ResNet50(weights=\"imagenet\")\ndef predict(image_name):\n    image_path = os.path.join(settings.UPLOAD_FOLDER, image_name)\n    img = image.load_img(image_path, target_size=(224, 224))\n    x = image.img_to_array(img)",
+        "detail": "model.ml_service",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "model.ml_service",
+        "description": "model.ml_service",
+        "peekOfCode": "model = ResNet50(weights=\"imagenet\")\ndef predict(image_name):\n    image_path = os.path.join(settings.UPLOAD_FOLDER, image_name)\n    img = image.load_img(image_path, target_size=(224, 224))\n    x = image.img_to_array(img)\n    x = np.expand_dims(x, axis=0)\n    x = preprocess_input(x)\n    preds = model.predict(x)\n    _, class_name, pred_probability = decode_predictions(preds, top=1)[0][0]\n    pred_probability = float(round(pred_probability, 4))",
+        "detail": "model.ml_service",
+        "documentation": {}
+    },
+    {
+        "label": "UPLOAD_FOLDER",
+        "kind": 5,
+        "importPath": "model.settings",
+        "description": "model.settings",
+        "peekOfCode": "UPLOAD_FOLDER = \"uploads/\"\nos.makedirs(UPLOAD_FOLDER, exist_ok=True)\n# REDIS\n# Queue name\nREDIS_QUEUE = \"service_queue\"\n# Port\nREDIS_PORT = 6379\n# DB Id\nREDIS_DB_ID = 0\n# Host IP",
+        "detail": "model.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_QUEUE",
+        "kind": 5,
+        "importPath": "model.settings",
+        "description": "model.settings",
+        "peekOfCode": "REDIS_QUEUE = \"service_queue\"\n# Port\nREDIS_PORT = 6379\n# DB Id\nREDIS_DB_ID = 0\n# Host IP\nREDIS_IP = os.getenv(\"REDIS_IP\", \"redis\")\n# Sleep parameters which manages the\n# interval between requests to our redis queue\nSERVER_SLEEP = 0.05",
+        "detail": "model.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_PORT",
+        "kind": 5,
+        "importPath": "model.settings",
+        "description": "model.settings",
+        "peekOfCode": "REDIS_PORT = 6379\n# DB Id\nREDIS_DB_ID = 0\n# Host IP\nREDIS_IP = os.getenv(\"REDIS_IP\", \"redis\")\n# Sleep parameters which manages the\n# interval between requests to our redis queue\nSERVER_SLEEP = 0.05",
+        "detail": "model.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_DB_ID",
+        "kind": 5,
+        "importPath": "model.settings",
+        "description": "model.settings",
+        "peekOfCode": "REDIS_DB_ID = 0\n# Host IP\nREDIS_IP = os.getenv(\"REDIS_IP\", \"redis\")\n# Sleep parameters which manages the\n# interval between requests to our redis queue\nSERVER_SLEEP = 0.05",
+        "detail": "model.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REDIS_IP",
+        "kind": 5,
+        "importPath": "model.settings",
+        "description": "model.settings",
+        "peekOfCode": "REDIS_IP = os.getenv(\"REDIS_IP\", \"redis\")\n# Sleep parameters which manages the\n# interval between requests to our redis queue\nSERVER_SLEEP = 0.05",
+        "detail": "model.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SERVER_SLEEP",
+        "kind": 5,
+        "importPath": "model.settings",
+        "description": "model.settings",
+        "peekOfCode": "SERVER_SLEEP = 0.05",
+        "detail": "model.settings",
+        "documentation": {}
+    },
+    {
+        "label": "APIUser",
+        "kind": 6,
+        "importPath": "stress_test.locustfile",
+        "description": "stress_test.locustfile",
+        "peekOfCode": "class APIUser(HttpUser):\n    wait_time = between(1, 5)\n    # Put your stress tests here.\n    # See https://docs.locust.io/en/stable/writing-a-locustfile.html for help.\n    # TODO\n    # raise NotImplementedError\n    @task(1)\n    def predict(self):\n        token = login(\"admin@example.com\", \"admin\")\n        files = [(\"file\", (\"dog.jpeg\", open(\"dog.jpeg\", \"rb\"), \"image/jpeg\"))]",
+        "detail": "stress_test.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "stress_test.locustfile",
+        "description": "stress_test.locustfile",
+        "peekOfCode": "def login(username: str, password: str) -> Optional[str]:\n    \"\"\"This function calls the login endpoint of the API to authenticate the user and get a token.\n    Args:\n        username (str): email of the user\n        password (str): password of the user\n    Returns:\n        Optional[str]: token if login is successful, None otherwise\n    \"\"\"\n    # TODO: Implement the login function\n    # 1 - make a request to the login endpoint",
+        "detail": "stress_test.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "API_BASE_URL",
+        "kind": 5,
+        "importPath": "stress_test.locustfile",
+        "description": "stress_test.locustfile",
+        "peekOfCode": "API_BASE_URL = \"http://localhost:8000\"\ndef login(username: str, password: str) -> Optional[str]:\n    \"\"\"This function calls the login endpoint of the API to authenticate the user and get a token.\n    Args:\n        username (str): email of the user\n        password (str): password of the user\n    Returns:\n        Optional[str]: token if login is successful, None otherwise\n    \"\"\"\n    # TODO: Implement the login function",
+        "detail": "stress_test.locustfile",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "tests.test_integration",
+        "description": "tests.test_integration",
+        "peekOfCode": "def login(username, password):\n    url = f\"http://0.0.0.0:8000/login\"\n    headers = {\n        \"accept\": \"application/json\",\n        \"Content-Type\": \"application/x-www-form-urlencoded\",\n    }\n    data = {\n        \"grant_type\": \"\",\n        \"username\": username,\n        \"password\": password,",
+        "detail": "tests.test_integration",
+        "documentation": {}
+    },
+    {
+        "label": "test_login",
+        "kind": 2,
+        "importPath": "tests.test_integration",
+        "description": "tests.test_integration",
+        "peekOfCode": "def test_login():\n    token = login(\"admin@example.com\", \"admin\")\n    assert token is not None\ndef test_predict():\n    token = login(\"admin@example.com\", \"admin\")\n    files = [(\"file\", (\"dog.jpeg\", open(\"tests/dog.jpeg\", \"rb\"), \"image/jpeg\"))]\n    headers = {\"Authorization\": f\"Bearer {token}\"}\n    response = requests.post(\n        \"http://localhost:8000/model/predict\",\n        headers=headers,",
+        "detail": "tests.test_integration",
+        "documentation": {}
+    },
+    {
+        "label": "test_predict",
+        "kind": 2,
+        "importPath": "tests.test_integration",
+        "description": "tests.test_integration",
+        "peekOfCode": "def test_predict():\n    token = login(\"admin@example.com\", \"admin\")\n    files = [(\"file\", (\"dog.jpeg\", open(\"tests/dog.jpeg\", \"rb\"), \"image/jpeg\"))]\n    headers = {\"Authorization\": f\"Bearer {token}\"}\n    response = requests.post(\n        \"http://localhost:8000/model/predict\",\n        headers=headers,\n        files=files,\n    )\n    assert response.status_code == 200",
+        "detail": "tests.test_integration",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "ui.app.image_classifier_app",
+        "description": "ui.app.image_classifier_app",
+        "peekOfCode": "def login(username: str, password: str) -> Optional[str]:\n    \"\"\"Authenticate user and return token.\"\"\"\n    url = f\"{API_BASE_URL}/login\"\n    headers = {\n        \"accept\": \"application/json\",\n        \"Content-Type\": \"application/x-www-form-urlencoded\",\n    }\n    data = {\n        \"grant_type\": \"\",\n        \"username\": username,",
+        "detail": "ui.app.image_classifier_app",
+        "documentation": {}
+    },
+    {
+        "label": "predict",
+        "kind": 2,
+        "importPath": "ui.app.image_classifier_app",
+        "description": "ui.app.image_classifier_app",
+        "peekOfCode": "def predict(token: str, uploaded_file: Image) -> requests.Response:\n    \"\"\"Send image to API for prediction.\"\"\"\n    url = f\"{API_BASE_URL}/model/predict\"\n    files = {\n        \"file\": (\n            uploaded_file.name,\n            uploaded_file.getvalue(),\n            uploaded_file.type,\n        )\n    }",
+        "detail": "ui.app.image_classifier_app",
+        "documentation": {}
+    },
+    {
+        "label": "send_feedback",
+        "kind": 2,
+        "importPath": "ui.app.image_classifier_app",
+        "description": "ui.app.image_classifier_app",
+        "peekOfCode": "def send_feedback(\n    token: str, feedback: str, score: float, prediction: str, image_file_name: str\n) -> requests.Response:\n    \"\"\"Send feedback to API.\"\"\"\n    url = f\"{API_BASE_URL}/feedback\"\n    headers = {\n        \"Authorization\": f\"Bearer {token}\",\n        \"Content-Type\": \"application/json\",\n    }\n    payload = {",
+        "detail": "ui.app.image_classifier_app",
+        "documentation": {}
+    },
+    {
+        "label": "API_HOST",
+        "kind": 5,
+        "importPath": "ui.app.settings",
+        "description": "ui.app.settings",
+        "peekOfCode": "API_HOST = os.getenv(\"API_HOST\", \"api\")\nAPI_PORT = os.getenv(\"API_PORT\", \"5000\")\nAPI_BASE_URL = f\"http://{API_HOST}:{API_PORT}\"",
+        "detail": "ui.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "API_PORT",
+        "kind": 5,
+        "importPath": "ui.app.settings",
+        "description": "ui.app.settings",
+        "peekOfCode": "API_PORT = os.getenv(\"API_PORT\", \"5000\")\nAPI_BASE_URL = f\"http://{API_HOST}:{API_PORT}\"",
+        "detail": "ui.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "API_BASE_URL",
+        "kind": 5,
+        "importPath": "ui.app.settings",
+        "description": "ui.app.settings",
+        "peekOfCode": "API_BASE_URL = f\"http://{API_HOST}:{API_PORT}\"",
+        "detail": "ui.app.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TestMLService",
+        "kind": 6,
+        "importPath": "ui.tests.test_image_classifier_app",
+        "description": "ui.tests.test_image_classifier_app",
+        "peekOfCode": "class TestMLService(unittest.TestCase):\n    def setUp(self):\n        self.token = \"dummy_token\"\n        self.image_file = Image.open(path_tests + \"/dog.jpeg\")\n        self.uploaded_file = mock.MagicMock(spec=BytesIO)\n        self.uploaded_file.getvalue.return_value = BytesIO()\n        self.uploaded_file.name = \"dog.jpeg\"\n        self.image_file.save(self.uploaded_file, format=\"JPEG\")\n        self.headers = {\"Authorization\": f\"Bearer {self.token}\"}\n    def test_login_success(self):",
+        "detail": "ui.tests.test_image_classifier_app",
+        "documentation": {}
+    },
+    {
+        "label": "path_tests",
+        "kind": 5,
+        "importPath": "ui.tests.test_image_classifier_app",
+        "description": "ui.tests.test_image_classifier_app",
+        "peekOfCode": "path_tests = os.path.dirname(os.path.abspath(__file__))\nclass TestMLService(unittest.TestCase):\n    def setUp(self):\n        self.token = \"dummy_token\"\n        self.image_file = Image.open(path_tests + \"/dog.jpeg\")\n        self.uploaded_file = mock.MagicMock(spec=BytesIO)\n        self.uploaded_file.getvalue.return_value = BytesIO()\n        self.uploaded_file.name = \"dog.jpeg\"\n        self.image_file.save(self.uploaded_file, format=\"JPEG\")\n        self.headers = {\"Authorization\": f\"Bearer {self.token}\"}",
+        "detail": "ui.tests.test_image_classifier_app",
+        "documentation": {}
+    }
+]

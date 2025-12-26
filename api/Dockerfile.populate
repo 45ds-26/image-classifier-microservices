@@ -1,0 +1,16 @@
+FROM python:3.8.13
+
+# Set working directory
+WORKDIR /src
+
+# 1. Copy requirements file
+COPY requirements.txt .
+
+# 2. Install dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# 3. Copy the rest of the API code
+COPY . .
+
+# 4. Run the populate database script
+CMD ["python", "populate_db.py"]
