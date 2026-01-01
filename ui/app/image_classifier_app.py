@@ -6,6 +6,8 @@ from app.settings import API_BASE_URL
 from PIL import Image
 
 
+# -------------------- API FUNCTIONS --------------------
+
 def login(username: str, password: str) -> Optional[str]:
     """Authenticate user and return token."""
     url = f"{API_BASE_URL}/login"
@@ -32,7 +34,7 @@ def login(username: str, password: str) -> Optional[str]:
     return None
 
 
-def predict(token: str, uploaded_file: Image) -> requests.Response:
+def predict(token: str, uploaded_file) -> requests.Response:
     """Send image to API for prediction."""
     url = f"{API_BASE_URL}/model/predict"
 
@@ -40,7 +42,6 @@ def predict(token: str, uploaded_file: Image) -> requests.Response:
         "file": (
             uploaded_file.name,
             uploaded_file.getvalue(),
-            uploaded_file.type,
         )
     }
 
@@ -53,14 +54,17 @@ def predict(token: str, uploaded_file: Image) -> requests.Response:
 
 
 def send_feedback(
-    token: str, feedback: str, score: float, prediction: str, image_file_name: str
+    token: str,
+    feedback: str,
+    score: float,
+    prediction: str,
+    image_file_name: str,
 ) -> requests.Response:
     """Send feedback to API."""
     url = f"{API_BASE_URL}/feedback"
 
     headers = {
         "Authorization": f"Bearer {token}",
-        "Content-Type": "application/json",
     }
 
     payload = {
@@ -77,19 +81,23 @@ def send_feedback(
 # -------------------- UI --------------------
 
 st.set_page_config(page_title="Image Classifier", page_icon="📷")
+
 st.markdown(
     "<h1 style='text-align: center; color: #4B89DC;'>Image Classifier</h1>",
     unsafe_allow_html=True,
 )
 
-# Login
+# -------- LOGIN --------
+
 if "token" not in st.session_state:
     st.markdown("## Login")
+
     username = st.text_input("Username")
     password = st.text_input("Password", type="password")
 
     if st.button("Login"):
         token = login(username, password)
+
         if token:
             st.session_state.token = token
             st.success("Login successful!")
@@ -99,11 +107,14 @@ else:
     st.success("You are logged in!")
 
 
+# -------- MAIN APP --------
+
 if "token" in st.session_state:
     token = st.session_state.token
 
     uploaded_file = st.file_uploader(
-        "Sube una imagen", type=["jpg", "jpeg", "png"]
+        "Sube una imagen",
+        type=["jpg", "jpeg", "png"],
     )
 
     if uploaded_file is not None:
@@ -116,10 +127,12 @@ if "token" in st.session_state:
     if st.button("Classify"):
         if uploaded_file is not None:
             response = predict(token, uploaded_file)
+
             if response.status_code == 200:
                 result = response.json()
                 st.write(f"**Prediction:** {result['prediction']}")
                 st.write(f"**Score:** {result['score']}")
+
                 st.session_state.classification_done = True
                 st.session_state.result = result
             else:
@@ -127,8 +140,11 @@ if "token" in st.session_state:
         else:
             st.warning("Please upload an image before classifying.")
 
+    # -------- FEEDBACK --------
+
     if st.session_state.classification_done:
         st.markdown("## Feedback")
+
         feedback = st.text_area(
             "If the prediction was wrong, please provide feedback."
         )
@@ -136,13 +152,15 @@ if "token" in st.session_state:
         if st.button("Send Feedback"):
             if feedback:
                 result = st.session_state.result
+
                 response = send_feedback(
                     token=token,
                     feedback=feedback,
                     score=result["score"],
                     prediction=result["prediction"],
                     image_file_name=result.get(
-                        "image_file_name", uploaded_file.name
+                        "image_file_name",
+                        uploaded_file.name,
                     ),
                 )
 
@@ -153,7 +171,10 @@ if "token" in st.session_state:
             else:
                 st.warning("Please provide feedback before sending.")
 
-    st.markdown("<hr style='border:2px solid #4B89DC;'>", unsafe_allow_html=True)
+    st.markdown(
+        "<hr style='border:2px solid #4B89DC;'>",
+        unsafe_allow_html=True,
+    )
     st.markdown(
         "<p style='text-align: center; color: #4B89DC;'>2024 Image Classifier App</p>",
         unsafe_allow_html=True,

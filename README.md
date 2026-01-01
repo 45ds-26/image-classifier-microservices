@@ -196,3 +196,39 @@ OK
 If you want to learn more about testing Python code, please read:
 - [Effective Python Testing With Pytest](https://realpython.com/pytest-python-testing/)
 - [The Hitchhiker’s Guide to Python: Testing Your Code](https://docs.python-guide.org/writing/tests/)
+
+---
+
+## Implementation Details
+
+This section describes the implementation decisions made during  the  development  of the project.
+
+
+### System Architecture
+The solutions was implemented using a microservices archetecture composed of:
+-FastAPI service for authentication, predictions and feedback
+-ML service using a pretrained ResNet50 Model
+-Streamlit UI for User interaction
+-PostgeSQL database for persistance
+-Redis for service communication
+-Docker compose for orchestration
+
+Each service runs in its onw and communicates through a shared Docker network.
+
+### Authentication
+JWT-based authentication was implemented.
+- Users authenticate via `/login`
+- A bearer token is returned
+- Protected endpoints require a valid token
+- The UI stores the token in session state
+
+A default admin user is created using a database population script.
+
+### Database
+PostgreSQL is used to store:
+- Users
+- Image classification feedback
+
+The database is initialized using the script:
+```bash
+docker exec -it ml_api python populate_db.py
